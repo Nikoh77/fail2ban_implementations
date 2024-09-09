@@ -1,5 +1,5 @@
-# Shinobi DVS
-Just fail2ban filters library to use with a webserver proxy and some software/applications:
+# FAIL2BAN implementations
+Just my fail2ban filters library to use with a webserver proxy and some software/applications:
 * **Shinobi DVS**
 * **Foundry VTT**
 
