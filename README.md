@@ -1,7 +1,7 @@
 # FAIL2BAN implementations
 Just my fail2ban filters library to use with a webserver proxy and some software/applications:
-* **Shinobi DVS**
-* **Foundry VTT**
+* [**Shinobi DVS**](https://shinobi.video/)
+* [**Foundry VTT**](https://foundryvtt.com/)
 
 ## Prerequisites:
 fail2ban at least version 1.0.2
