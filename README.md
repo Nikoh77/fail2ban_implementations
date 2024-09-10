@@ -20,7 +20,7 @@ logpath = ***path2log***
 port = http,https
 filter = ***filterFileName***
 bantime  = 1h
-#banaction = ssh-nftables[remote-host=***user***@***proxyIP***, type=multiport]
+#banaction = ssh-nftables[remote-host=***user***@***proxyIP***, type=multiport, blocktype=drop]
 ```
 Below a jail example:
 ```
